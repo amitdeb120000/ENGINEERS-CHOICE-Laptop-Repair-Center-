@@ -1,0 +1,8 @@
+{
+  "name": "ENGINEERS CHOICE Laptop Repair Center",
+  "description": "Professional laptop repair services in Cooch Behar. Expert troubleshooting, screen replacement, and hardware upgrades.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
